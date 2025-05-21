@@ -1,4 +1,8 @@
 # Titanic: Machine Learning from Disaster
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Kaggle Competition](https://img.shields.io/badge/Kaggle-Titanic-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange)
 
 This project is my solution to the classic [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic/overview).
 
@@ -31,3 +35,4 @@ This project is my solution to the classic [Kaggle Titanic competition](https://
 ## Author
 
 Simar Gerçeker
+
